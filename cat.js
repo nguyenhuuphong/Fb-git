@@ -4,3 +4,7 @@ function mouse(){
 }
 hihihihihi
 cat.expotr = cat ;
+
+
+
+ahihihihihihi đây là file mới commit
